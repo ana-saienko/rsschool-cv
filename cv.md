@@ -2,7 +2,7 @@
 
 ![saienko-photo](IMG_20180915_121151.jpg)
 
-##### Contact Info
+#### Contact Info
 
 **Mobile phone:**
 _+43 650 8063134_
@@ -12,12 +12,14 @@ _anastiasaenko@gmail.com_
 
 **Discord:**
 _@ana-saienko_
+
 ********* 
-##### About me
+#### About me
 Hi, I like user-friendly sites and dynamic solutions.
 I train attentiveness, make bookmarks on cool websites and like to watch Youtube videos with JS lessons, where I can learn new practical features. 
 I already created some websites for my portfolio and I keep working on new projects. 
 I really enjoy the process of creating the website, I like to see the results right in front of me. 
+
 ********* 
 ##### Technologies:
 
@@ -26,12 +28,14 @@ I really enjoy the process of creating the website, I like to see the results ri
 * Flexbox, Grid
 * JavaScript / jQuery / plugins
 * GIT
+
 ********* 
 ##### I do:
 
 * Mobile first
 * Pixel Perfect
 * Responsive and cross-browser layout
+
 ********* 
 ##### Graphic editors:
 
@@ -39,6 +43,7 @@ I really enjoy the process of creating the website, I like to see the results ri
 * Zeplin
 * Adobe Photoshop
 * Avocode etc
+
 ********* 
 ##### Code example:
 ```
@@ -49,6 +54,7 @@ function finalGrade (exam, projects) {
   return 0;
 }
 ```
+
 ********* 
 ##### My projects:
 
@@ -57,6 +63,7 @@ function finalGrade (exam, projects) {
 * [FAQ Accordeon](https://ana-saienko.github.io/faq-accordeon/)
 * [Pricing Landing](https://ana-saienko.github.io/pricing/)
 * [Pizza Landing Shop](https://ana-saienko.github.io/follow-me-please/)
+
 ********* 
 ##### Education:
 
@@ -67,6 +74,7 @@ Faculty of foreign languages
 2015-2016
 
 Specialist Diploma with honours of Philologist, Translator of French language, Translator of English language
+
 ********* 
 ##### Languages:
 
