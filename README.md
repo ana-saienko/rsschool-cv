@@ -45,17 +45,20 @@ function finalGrade (exam, projects) {
 ********* 
 ##### My projects:
 
-* Digital Clock App
-* Game Landing Page
-* FAQ Accordeon
-* Pricing Landing
-* Pizza Landing Shop
+* [Digital Clock App](https://ana-saienko.github.io/digital-clock/)
+* [Game Landing Page](https://ana-saienko.github.io/game/)
+* [FAQ Accordeon](https://ana-saienko.github.io/faq-accordeon/)
+* [Pricing Landing](https://ana-saienko.github.io/pricing/)
+* [Pizza Landing Shop](https://ana-saienko.github.io/follow-me-please/)
 ********* 
 ##### Education:
 
 Zaporizhzhya National University
+
 Faculty of foreign languages
+
 2015-2016
+
 Specialist Diploma with honours of Philologist, Translator of French language, Translator of English language
 ********* 
 ##### Languages:
