@@ -2,15 +2,18 @@
 
 ##### Contact Info
 
-Mobile phone:
-+43 650 8063134 
-E-mail:
-anastiasaenko@gmail.com
-Discord:
-@ana-saienko
+**Mobile phone:**
+_+43 650 8063134_
+**E-mail:**
+_anastiasaenko@gmail.com_
+**Discord:**
+_@ana-saienko_
 ********* 
 ##### About me
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+Hi, I like user-friendly sites and dynamic solutions.
+I train attentiveness, make bookmarks on cool websites and like to watch Youtube videos with JS lessons, where I can learn new practical features. 
+I already created some websites for my portfolio and I keep working on new projects. 
+I really enjoy the process of creating the website, I like to see the results right in front of me. 
 ********* 
 ##### Technologies:
 
