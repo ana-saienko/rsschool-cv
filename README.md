@@ -1,11 +1,15 @@
 # Saienko Anastasiia
 
+![saienko-photo](IMG_20180915_121151.jpg)
+
 ##### Contact Info
 
 **Mobile phone:**
 _+43 650 8063134_
+
 **E-mail:**
 _anastiasaenko@gmail.com_
+
 **Discord:**
 _@ana-saienko_
 ********* 
